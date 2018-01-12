@@ -1,0 +1,23 @@
+{
+  "name": "t-util",
+  "version": "1.0.0",
+  "description": "An util for Taf server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-util.git"
+  },
+  "keywords": [
+    "taf",
+    "util"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-util/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-util#readme"
+}
