@@ -4,7 +4,7 @@
   "description": "An util for Taf server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,9 @@
   ],
   "author": "maizhiying",
   "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
   "bugs": {
     "url": "https://github.com/dafeizizhu/t-util/issues"
   },
